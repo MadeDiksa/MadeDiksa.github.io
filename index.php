@@ -73,7 +73,6 @@
               <h4>UNIVERSITAS PENDIDIKAN GANESHA</h4>
               <h5>2020 mulai menempuh pendidikan hingga saat ini</h5>
               <p><em>Pendidikan Teknik Informatika, FTK</em></p>
-              <p>Saat ini sudah menginjak semester 5 di Unversitas Pendidikan Ganesha</p>
             </div>
       </div>
     </section><!-- End Resume Section -->

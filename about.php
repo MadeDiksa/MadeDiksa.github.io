@@ -18,7 +18,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>MAHASISWA</h3>
             <p class="fst-italic">
-              Nama saya I Made Diksa Prjatama, saya saat ini menempuh pendidikan di Universitas Pendidikan Ganesha, dengan Program Studi Pendidikan Teknik Informatika. Saat ini saya menginjak ke semester 5.
+              Nama saya I Made Diksa Prajatama, saya saat ini menempuh pendidikan di Universitas Pendidikan Ganesha, dengan Program Studi Pendidikan Teknik Informatika. 
             </p>
             <div class="row">
               <div class="col-lg-6">

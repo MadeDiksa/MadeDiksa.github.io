@@ -43,6 +43,14 @@
             </div>
           </div>
 
+          <div class="col-lg-4 col-md-6 portfolio-item filter-app">
+            <div class="portfolio-wrap">
+              <img src="assets/img/portfolio/3D Advance.png" class="img-fluid" alt="">
+              <div class="portfolio-links">
+                <a href="assets/img/portfolio/3D Advance.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="3D Advance Computer, Saat itu saya membuat sebuat Karakter 3D (Link : https://drive.google.com/drive/folders/1U5pjkBZGRmWgZikdj4ARzzhNYB7vH4QI )"><i class="bx bx-plus"></i></a>
+              </div>
+            </div>
+          </div>
          
         </div>
 
